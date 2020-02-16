@@ -1,0 +1,13 @@
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+
+*.DS_Store*
+*.idea/
+*_ReSharper.Caches/
+
+*/Assets/Plugins/Editor/JetBrains*
+*.csproj
+*.sln
+AndroidExport/

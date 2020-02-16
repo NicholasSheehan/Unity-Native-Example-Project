@@ -1,0 +1,4 @@
+[submodule "Unity-Native-Sharing"]
+	path = Unity-Native-Sharing
+	url = https://github.com/NicholasSheehan/Unity-Native-Sharing
+	branch = master
