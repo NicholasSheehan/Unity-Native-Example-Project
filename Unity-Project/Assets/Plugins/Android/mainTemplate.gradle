@@ -49,7 +49,7 @@ apply plugin: 'com.android.application'
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 // Android Resolver Dependencies Start
-    implementation 'com.android.support:support-v4:26.1.0' // Packages/com.unitynative.sharing/Editor/UnityNativeSharingDependencies.xml:7
+    implementation 'androidx.appcompat:appcompat:1.1.0' // Packages/com.unitynative.sharing/Editor/UnityNativeSharingDependencies.xml:7
 // Android Resolver Dependencies End
 **DEPS**}
 
