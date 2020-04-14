@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-04-14
+### Added
+- Release Unity-Native-Toasts 
+- New app layout to support multiple projects
 
 ## [1.0.0] - 2020-04-13
 ### This is the first release of *Unity-Native-Example-Project*.

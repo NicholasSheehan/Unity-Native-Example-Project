@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/UnityNative.Sharing/UnityNativeSharing Example.unity
+    path: Assets/Main Scene/Main.unity
+    guid: d39b5e7adf20984409dca05dcdeed170
+  - enabled: 1
+    path: Packages/com.unitynative.sharing/Examples/UnityNativeSharing Example.unity
     guid: 921283e5dacc5244b97a882fe8f0cf1f
+  - enabled: 1
+    path: Packages/com.unitynative.toasts/Examples/UnityNativeToasts Example.unity
+    guid: 5b17e59c7f1de804eb3d192749bb66ea
   m_configObjects: {}

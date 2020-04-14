@@ -2,3 +2,7 @@
 	path = Unity-Native-Sharing
 	url = https://github.com/NicholasSheehan/Unity-Native-Sharing
 	branch = master
+[submodule "Unity-Native-Toasts"]
+	path = Unity-Native-Toasts
+	url = https://github.com/NicholasSheehan/Unity-Native-Toasts
+	branch = master
