@@ -9,13 +9,13 @@ namespace UnityNative.ExampleProject
         /// UI to spawn to enable navigation back to the main menu from another scene
         /// </summary>
         [SerializeField]
-        private BackToMainMenuUI backToMainMenuUI;
+        private BackToMainMenuUI backToMainMenuUI = null;
 
         /// <summary>
         /// Name of the scene to load
         /// </summary>
         [SerializeField]
-        private string sceneName;
+        private string sceneName = null;
 
         public void LoadScene()
         {
